@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "College Alert App",
+    "slug": "college-alert-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "collegealert",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.college.alertapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.college.alertapp"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
